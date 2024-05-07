@@ -19,10 +19,8 @@ To use the implementations, simply clone the repository and run the Python scrip
 The implementations require the following Python libraries:
 
 - NumPy
-- matplotlib (for visualization, optional)
-- scikit-learn (for comparison and evaluation, optional)
 
 You can install the dependencies using pip:
 
 ```bash
-pip install numpy matplotlib scikit-learn
+pip install numpy 
