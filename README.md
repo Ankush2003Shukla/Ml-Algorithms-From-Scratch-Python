@@ -8,7 +8,7 @@ This repository contains Python implementations of various machine learning algo
 - Lasso Regression
 - K-Means Classifier
 
-These implementations are provided for educational purposes to understand the inner workings of these algorithms. Each algorithm is implemented in a separate Python script for clarity.
+These implementations are provided for educational purposes to understand the inner workings of these algorithms. Each algorithm is implemented in a separate Python script(Google colab) for clarity.
 
 ## Usage
 
