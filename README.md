@@ -19,6 +19,7 @@ To use the implementations, simply clone the repository and run the Python scrip
 The implementations require the following Python libraries:
 
 - NumPy
+- Statistics(for Knn)
 
 You can install the dependencies using pip:
 
