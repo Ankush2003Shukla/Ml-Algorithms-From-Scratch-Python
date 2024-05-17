@@ -23,4 +23,7 @@ The implementations require the following Python libraries:
 You can install the dependencies using pip:
 
 ```bash
-pip install numpy 
+pip install numpy
+
+```bash
+pip install statistics
